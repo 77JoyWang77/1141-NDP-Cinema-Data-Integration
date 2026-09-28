@@ -1,0 +1,491 @@
+[
+  {
+    "name": "大巨蛋秀泰影城",
+    "address": "台北市信義區光復南路105號2樓",
+    "phone": "(02)27620767",
+    "image": "https://capi.showtimes.com.tw/assets/37/37a5e5c9c13269954b94f15e73b69a7e.png",
+    "detail_url": "https://www.showtimes.com.tw/info/cinema/91",
+    "ticket_prices": [
+      {
+        "version": "2D數位電影",
+        "prices": {
+          "full": 400,
+          "discount": 370,
+          "morning": 340,
+          "charity": 200
+        }
+      },
+      {
+        "version": "2D REMMI",
+        "prices": {
+          "full": 420,
+          "discount": 390,
+          "morning": 360,
+          "charity": 210
+        }
+      },
+      {
+        "version": "2D Dolby Vision+Atmos",
+        "prices": {
+          "full": 500,
+          "discount": 470,
+          "morning": 440,
+          "charity": 250
+        }
+      },
+      {
+        "version": "2D SCREENX",
+        "prices": {
+          "full": 520,
+          "discount": 490,
+          "morning": 460,
+          "charity": 260
+        }
+      },
+      {
+        "version": "2D 4DX",
+        "prices": {
+          "full": 610,
+          "discount": 580,
+          "morning": 550,
+          "charity": 305
+        }
+      },
+      {
+        "version": "2D ULTRA 4DX",
+        "prices": {
+          "full": 690,
+          "discount": 660,
+          "morning": 630,
+          "charity": 345
+        }
+      }
+    ],
+    "ticket_extra_rules": "3D版本加價70元，HFR版本加價10元，片長超過2.5小時加價20元，超過3小時加價30元，超過3.5小時加價40元",
+    "crawled_time": "2025-12-22T05:57:01.867184"
+  },
+  {
+    "name": "台北欣欣秀泰影城",
+    "address": "台北市中山區林森北路247號",
+    "phone": "(02)2537-1889",
+    "image": "https://capi.showtimes.com.tw/thumbs/b5/b5d48377a967afb242cb2b3d0d8a2b3a.jpeg",
+    "detail_url": "https://www.showtimes.com.tw/info/cinema/2",
+    "ticket_prices": [
+      {
+        "version": "2D數位電影",
+        "prices": {
+          "full": 330,
+          "discount": 300,
+          "morning": 270,
+          "charity": 165
+        }
+      },
+      {
+        "version": "2D SCREENX",
+        "prices": {
+          "full": 430,
+          "discount": 400,
+          "morning": 370,
+          "charity": 215
+        }
+      }
+    ],
+    "ticket_extra_rules": "3D版本加價60元，HFR版本加價10元，片長超過2.5小時加價20元，超過3小時加價30元，超過3.5小時加價40元",
+    "crawled_time": "2025-12-22T05:57:05.166369"
+  },
+  {
+    "name": "樹林秀泰影城",
+    "address": "新北市樹林區樹新路40-6號",
+    "phone": "(02)26868769",
+    "image": "https://capi.showtimes.com.tw/thumbs/ae/ae81396774892bf5aa1942254d5411fb.jpeg",
+    "detail_url": "https://www.showtimes.com.tw/info/cinema/54",
+    "ticket_prices": [
+      {
+        "version": "2D數位電影",
+        "prices": {
+          "full": 330,
+          "discount": 300,
+          "morning": 270,
+          "charity": 165
+        }
+      },
+      {
+        "version": "2D巨幕廳",
+        "prices": {
+          "full": 400,
+          "discount": 370,
+          "morning": 340,
+          "charity": 200
+        }
+      },
+      {
+        "version": "2D SCREENX",
+        "prices": {
+          "full": 450,
+          "discount": 420,
+          "morning": 390,
+          "charity": 225
+        }
+      }
+    ],
+    "ticket_extra_rules": "3D版本加價60元，HFR版本加價10元，片長超過2.5小時加價20元，超過3小時加價30元，超過3.5小時加價40元",
+    "crawled_time": "2025-12-22T05:57:08.364139"
+  },
+  {
+    "name": "土城秀泰影城",
+    "address": "新北市土城區學府路二段210號",
+    "phone": "(02)22603398",
+    "image": "https://capi.showtimes.com.tw/thumbs/8c/8c975a06781c38230cfa0237d16c9229.jpeg",
+    "detail_url": "https://www.showtimes.com.tw/info/cinema/55",
+    "ticket_prices": [
+      {
+        "version": "2D數位電影",
+        "prices": {
+          "full": 330,
+          "discount": 300,
+          "morning": 270,
+          "charity": 165
+        }
+      }
+    ],
+    "ticket_extra_rules": "3D版本加價60元，HFR版本加價10元，片長超過2.5小時加價20元，超過3小時加價30元，超過3.5小時加價40元",
+    "crawled_time": "2025-12-22T05:57:10.499436"
+  },
+  {
+    "name": "台中站前秀泰影城",
+    "address": "台中市東區南京路76號",
+    "phone": "(04)22117988",
+    "image": "https://capi.showtimes.com.tw/thumbs/96/96b4fb8b61461a790067fd00b74efe01.jpeg",
+    "detail_url": "https://www.showtimes.com.tw/info/cinema/53",
+    "ticket_prices": [
+      {
+        "version": "2D數位電影",
+        "prices": {
+          "full": 340,
+          "discount": 320,
+          "morning": 290,
+          "charity": 170
+        }
+      },
+      {
+        "version": "2D巨幕廳",
+        "prices": {
+          "full": 410,
+          "discount": 390,
+          "morning": 360,
+          "charity": 205
+        }
+      },
+      {
+        "version": "2D SCREENX",
+        "prices": {
+          "full": 460,
+          "discount": 440,
+          "morning": 410,
+          "charity": 230
+        }
+      },
+      {
+        "version": "Love廳 (雙人套票)",
+        "prices": {
+          "full": 999,
+          "discount": null,
+          "morning": null,
+          "charity": null
+        }
+      }
+    ],
+    "ticket_extra_rules": "3D版本加價60元，HFR版本加價10元，片長超過2.5小時加價20元，超過3小時加價30元，超過3.5小時加價40元",
+    "crawled_time": "2025-12-22T05:57:13.700203"
+  },
+  {
+    "name": "台中文心秀泰影城",
+    "address": "台中市南屯區文心南路289號7樓8樓",
+    "phone": "(04)24735989",
+    "image": "https://capi.showtimes.com.tw/thumbs/74/740d0523d967e4754476d50a4a72dc15.jpeg",
+    "detail_url": "https://www.showtimes.com.tw/info/cinema/56",
+    "ticket_prices": [
+      {
+        "version": "2D數位電影",
+        "prices": {
+          "full": 340,
+          "discount": 320,
+          "morning": 290,
+          "charity": 170
+        }
+      },
+      {
+        "version": "2D巨幕廳",
+        "prices": {
+          "full": 410,
+          "discount": 390,
+          "morning": 360,
+          "charity": 205
+        }
+      },
+      {
+        "version": "2D SCREENX",
+        "prices": {
+          "full": 460,
+          "discount": 440,
+          "morning": 410,
+          "charity": 230
+        }
+      },
+      {
+        "version": "丹普廳 (單人套票) (贈送300元美食餐券-自取票起2個月)",
+        "prices": {
+          "full": 1490,
+          "discount": null,
+          "morning": null,
+          "charity": null
+        }
+      },
+      {
+        "version": "丹普廳 (雙人套票) (贈送600元美食餐券-自取票起2個月)",
+        "prices": {
+          "full": 2060,
+          "discount": null,
+          "morning": null,
+          "charity": null
+        }
+      }
+    ],
+    "ticket_extra_rules": "3D版本加價60元，HFR版本加價10元，片長超過2.5小時加價20元，超過3小時加價30元，超過3.5小時加價40元",
+    "crawled_time": "2025-12-22T05:57:15.864774"
+  },
+  {
+    "name": "台中麗寶秀泰影城",
+    "address": "台中市后里區月眉東路二段181號3樓",
+    "phone": "(04)25587180",
+    "image": "https://capi.showtimes.com.tw/thumbs/ec/ec872ba943bfc37fbd1de5f3303dcc21.jpeg",
+    "detail_url": "https://www.showtimes.com.tw/info/cinema/59",
+    "ticket_prices": [
+      {
+        "version": "2D數位電影",
+        "prices": {
+          "full": 340,
+          "discount": 320,
+          "morning": 290,
+          "charity": 170
+        }
+      }
+    ],
+    "ticket_extra_rules": "3D版本加價60元，HFR版本加價10元，片長超過2.5小時加價20元，超過3小時加價30元，超過3.5小時加價40元",
+    "crawled_time": "2025-12-22T05:57:19.001787"
+  },
+  {
+    "name": "嘉義秀泰影城",
+    "address": "嘉義市西區文化路299號",
+    "phone": "(05)2283838",
+    "image": "https://capi.showtimes.com.tw/assets/ff/ff6243dde8a43e278494094529ab8a7e.png",
+    "detail_url": "https://www.showtimes.com.tw/info/cinema/9",
+    "ticket_prices": [
+      {
+        "version": "2D數位電影",
+        "prices": {
+          "full": 310,
+          "discount": 280,
+          "morning": 260,
+          "charity": 155
+        }
+      },
+      {
+        "version": "2D巨幕廳",
+        "prices": {
+          "full": 380,
+          "discount": 350,
+          "morning": 330,
+          "charity": 190
+        }
+      },
+      {
+        "version": "2D SCREENX",
+        "prices": {
+          "full": 420,
+          "discount": 390,
+          "morning": 370,
+          "charity": 210
+        }
+      }
+    ],
+    "ticket_extra_rules": "3D版本加價60元，HFR版本加價10元，片長超過2.5小時加價20元，超過3小時加價30元，超過3.5小時加價40元",
+    "crawled_time": "2025-12-22T05:57:21.135786"
+  },
+  {
+    "name": "基隆秀泰影城",
+    "address": "基隆市信一路177號",
+    "phone": "(02)2421-2388",
+    "image": "https://capi.showtimes.com.tw/thumbs/9f/9f93d2b78c4459176bf9bc2db9dbed8a.jpeg",
+    "detail_url": "https://www.showtimes.com.tw/info/cinema/5",
+    "ticket_prices": [
+      {
+        "version": "2D數位電影",
+        "prices": {
+          "full": 310,
+          "discount": 280,
+          "morning": 260,
+          "charity": 155
+        }
+      }
+    ],
+    "ticket_extra_rules": "3D版本加價60元，HFR版本加價10元，片長超過2.5小時加價20元，超過3小時加價30元，超過3.5小時加價40元",
+    "crawled_time": "2025-12-22T05:57:24.294060"
+  },
+  {
+    "name": "花蓮秀泰影城",
+    "address": "花蓮市國聯五路69號",
+    "phone": "(03)8339838",
+    "image": "https://capi.showtimes.com.tw/thumbs/12/123a08ae760b170f3f978c4e83f91731.jpeg",
+    "detail_url": "https://www.showtimes.com.tw/info/cinema/3",
+    "ticket_prices": [
+      {
+        "version": "2D數位電影",
+        "prices": {
+          "full": 310,
+          "discount": 280,
+          "morning": 260,
+          "charity": 155
+        }
+      }
+    ],
+    "ticket_extra_rules": "3D版本加價60元，HFR版本加價10元，片長超過2.5小時加價20元，超過3小時加價30元，超過3.5小時加價40元",
+    "crawled_time": "2025-12-22T05:57:32.827334"
+  },
+  {
+    "name": "台東秀泰影城",
+    "address": "台東市新生路93號",
+    "phone": "(089)327755",
+    "image": "https://capi.showtimes.com.tw/thumbs/54/546c67bd033a2647dfbc2c0265e0bc8b.jpeg",
+    "detail_url": "https://www.showtimes.com.tw/info/cinema/7",
+    "ticket_prices": [
+      {
+        "version": "2D數位電影",
+        "prices": {
+          "full": 310,
+          "discount": 280,
+          "morning": 260,
+          "charity": 155
+        }
+      }
+    ],
+    "ticket_extra_rules": "3D版本加價60元，HFR版本加價10元，片長超過2.5小時加價20元，超過3小時加價30元，超過3.5小時加價40元",
+    "crawled_time": "2025-12-22T05:57:34.996744"
+  },
+  {
+    "name": "北港秀泰影城",
+    "address": "雲林縣北港鎮光復里華南路101號2樓",
+    "phone": "(05)7821898",
+    "image": "https://capi.showtimes.com.tw/thumbs/84/849bf2a92d135aaf981fae63bdd08062.jpeg",
+    "detail_url": "https://www.showtimes.com.tw/info/cinema/58",
+    "ticket_prices": [
+      {
+        "version": "2D數位電影",
+        "prices": {
+          "full": 310,
+          "discount": 280,
+          "morning": 260,
+          "charity": 155
+        }
+      }
+    ],
+    "ticket_extra_rules": "3D版本加價60元，HFR版本加價10元，片長超過2.5小時加價20元，超過3小時加價30元，超過3.5小時加價40元",
+    "crawled_time": "2025-12-22T05:57:42.764342"
+  },
+  {
+    "name": "台南仁德秀泰影城",
+    "address": "台南市仁德區仁愛里大同路三段759號2樓",
+    "phone": "(06)2691889",
+    "image": "https://capi.showtimes.com.tw/thumbs/ec/ec104a9bb97aef68327306e3a5fc2797.jpeg",
+    "detail_url": "https://www.showtimes.com.tw/info/cinema/60",
+    "ticket_prices": [
+      {
+        "version": "2D數位電影",
+        "prices": {
+          "full": 310,
+          "discount": 280,
+          "morning": 260,
+          "charity": 155
+        }
+      }
+    ],
+    "ticket_extra_rules": "3D版本加價60元，HFR版本加價10元，片長超過2.5小時加價20元，超過3小時加價30元，超過3.5小時加價40元",
+    "crawled_time": "2025-12-22T05:57:44.913823"
+  },
+  {
+    "name": "高雄岡山秀泰影城",
+    "address": "高雄市岡山區捷安路1巷2號4樓",
+    "phone": "(07)6262808",
+    "image": "https://capi.showtimes.com.tw/assets/d9/d9c25bf95df913f2328538fa47474dd6.png",
+    "detail_url": "https://www.showtimes.com.tw/info/cinema/84",
+    "ticket_prices": [
+      {
+        "version": "2D數位電影",
+        "prices": {
+          "full": 330,
+          "discount": 310,
+          "morning": 290,
+          "charity": 165
+        }
+      },
+      {
+        "version": "2D巨幕廳",
+        "prices": {
+          "full": 400,
+          "discount": 380,
+          "morning": 360,
+          "charity": 200
+        }
+      },
+      {
+        "version": "2D SCREENX",
+        "prices": {
+          "full": 450,
+          "discount": 430,
+          "morning": 410,
+          "charity": 225
+        }
+      }
+    ],
+    "ticket_extra_rules": "3D版本加價60元，HFR版本加價10元，片長超過2.5小時加價20元，超過3小時加價30元，超過3.5小時加價40元",
+    "crawled_time": "2025-12-22T05:57:47.083581"
+  },
+  {
+    "name": "高雄夢時代秀泰影城",
+    "address": "高雄市前鎮區中華五路789號8樓",
+    "phone": "(07)8122998",
+    "image": "https://capi.showtimes.com.tw/assets/6d/6daf8f2a5b6f5ccdd0c503271267b254.jpg",
+    "detail_url": "https://www.showtimes.com.tw/info/cinema/87",
+    "ticket_prices": [
+      {
+        "version": "2D數位電影",
+        "prices": {
+          "full": 330,
+          "discount": 310,
+          "morning": 290,
+          "charity": 165
+        }
+      },
+      {
+        "version": "2D SCREENX",
+        "prices": {
+          "full": 430,
+          "discount": 410,
+          "morning": 390,
+          "charity": 215
+        }
+      },
+      {
+        "version": "2D巨幕廳",
+        "prices": {
+          "full": 370,
+          "discount": 350,
+          "morning": 330,
+          "charity": 185
+        }
+      }
+    ],
+    "ticket_extra_rules": "3D版本加價60元，HFR版本加價10元，片長超過2.5小時加價20元，超過3小時加價30元，超過3.5小時加價40元",
+    "crawled_time": "2025-12-22T05:57:50.228048"
+  }
+]
